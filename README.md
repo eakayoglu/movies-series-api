@@ -135,3 +135,29 @@ To run the tests, use the following command:
 pytest -v -s --tb=auto test_app.py
 
 
+Sample Output:
+```sh
+============================= test session starts ==============================
+platform darwin -- Python 3.11.3, pytest-8.3.2, pluggy-1.5.0 -- /Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11
+cachedir: .pytest_cache
+rootdir: /
+plugins: anyio-4.4.0, Faker-28.1.0
+collected 16 items                                                             
+
+test_app.py::test_home PASSED
+test_app.py::test_login_success PASSED
+test_app.py::test_login_fail PASSED
+test_app.py::test_get_movies PASSED
+test_app.py::test_add_movie PASSED
+test_app.py::test_rate_limit_login PASSED
+test_app.py::test_get_specific_movie PASSED
+test_app.py::test_update_movie PASSED
+test_app.py::test_delete_movie PASSED
+test_app.py::test_get_top_movies PASSED
+test_app.py::test_get_series PASSED
+test_app.py::test_add_series PASSED
+test_app.py::test_get_specific_series PASSED
+test_app.py::test_update_series PASSED
+test_app.py::test_delete_series PASSED
+test_app.py::test_get_top_series PASSED
+```
