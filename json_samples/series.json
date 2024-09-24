@@ -1,0 +1,12 @@
+[
+    {"title": "Breaking Bad", "year": 2008, "genre": "Crime", "ratings": 9.5, "director": "Vince Gilligan"},
+    {"title": "Game of Thrones", "year": 2011, "genre": "Fantasy", "ratings": 9.3, "director": "David Benioff, D.B. Weiss"},
+    {"title": "The Sopranos", "year": 1999, "genre": "Crime", "ratings": 9.2, "director": "David Chase"},
+    {"title": "Sherlock", "year": 2010, "genre": "Crime", "ratings": 9.1, "director": "Mark Gatiss, Steven Moffat"},
+    {"title": "Friends", "year": 1994, "genre": "Comedy", "ratings": 8.9, "director": "David Crane, Marta Kauffman"},
+    {"title": "The Office", "year": 2005, "genre": "Comedy", "ratings": 8.9, "director": "Greg Daniels, Ricky Gervais, Stephen Merchant"},
+    {"title": "Stranger Things", "year": 2016, "genre": "Drama", "ratings": 8.7, "director": "Matt Duffer, Ross Duffer"},
+    {"title": "The Mandalorian", "year": 2019, "genre": "Sci-Fi", "ratings": 8.8, "director": "Jon Favreau"},
+    {"title": "The Crown", "year": 2016, "genre": "Drama", "ratings": 8.7, "director": "Peter Morgan"},
+    {"title": "Westworld", "year": 2016, "genre": "Sci-Fi", "ratings": 8.6, "director": "Jonathan Nolan, Lisa Joy"}
+]
