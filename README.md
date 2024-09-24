@@ -133,7 +133,7 @@ The API provides endpoints to manage movies and series. You can use tools like `
 To run the tests, use the following command:
 ```sh
 pytest -v -s --tb=auto test_app.py
-
+```
 
 Sample Output:
 ```sh
